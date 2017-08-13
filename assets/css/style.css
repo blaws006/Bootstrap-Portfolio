@@ -1,0 +1,95 @@
+body {
+	width: 100%;
+	background: url('../images/small_steps.png') repeat;
+}
+
+/****************
+HEADER
+****************/
+.headerContainerBackground {
+	background-color: #ffffff;
+}
+.header {
+
+	background-color: #4aaaa6;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.heading {
+	font-size: 1.5em;
+	color: #ffffff;
+}
+
+.logo {
+	padding: 20px;
+	background-color: #4aaaa6;
+}
+
+.searchButton {
+	color: #ffffff;
+	border: 1px solid #ffffff;
+}
+
+.searchButton:hover {
+	background-color: #5E7F7E;
+}
+
+/****************
+MAIN CONTENT-ABOUT
+****************/
+.mainContent {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.mainContentBackground {
+	background-color: #ffffff;
+	padding: 30px;
+	overflow: hidden;
+}
+
+h2 {
+	color: #4aaaa6;
+}
+
+.hr {
+	background-color: #e2e2e2;
+	height: 4px;
+	margin: 10px 0;
+}
+
+.imgSize {
+
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.contactHeight {
+	height: 100%;
+	overflow: hidden;
+}
+
+/****************
+MAIN CONTENT-PORTFOLIO
+****************/
+
+/*******************
+CONNECT
+*******************/
+
+.connectHeading {
+	font-size: 1em;
+}
+
+.connectImg img {
+	max-width: 65px;
+	display: inline-block;
+}
+
+.footer {
+	padding: 50px;
+	border-top: 5px solid #4aaaa6;
+	background-color: #666666;
+	color: #ffffff;
+	width: 100%;
+}
