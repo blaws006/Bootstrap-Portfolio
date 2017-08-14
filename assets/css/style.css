@@ -73,6 +73,43 @@ h2 {
 MAIN CONTENT-PORTFOLIO
 ****************/
 
+div.transbox  {
+  background-color: #4aaaa5;
+  /* For IE8 and earlier */
+   position: relative;
+   bottom: 60px;
+   }
+
+
+a.highlight {
+	text-decoration: none;
+}	
+
+    .transbox:hover {
+	background-color: #5E7F7E;
+}
+
+.transbox p {
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+   vertical-align: bottom;
+   padding: 10px;
+   font-size: 0.875em;
+   
+}
+
+/*******************
+CONTACT
+*******************/
+.btn-contact {
+	background-color: #4aaaa5;
+	color:#ffffff;
+}
+
+.btn-contact:hover {
+	background-color: #5E7F7E;
+}
 /*******************
 CONNECT
 *******************/
